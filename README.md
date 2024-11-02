@@ -23,6 +23,6 @@ My journey learning Computer Science has led me to discover this exciting field 
 
 ## Activities
 
- Tathva Cyber Forensics and Data Security Workshop at NIT,Calicut
- Google Cyber Security Course Professional Statement <a href="https://docs.google.com/document/d/1M14Tn2Gyp_YqZ5vPQAuY5rvticc8m9ShtXqqV0LxlNQ/edit?usp=sharing">
+- Tathva Cyber Forensics and Data Security Workshop at NIT,Calicut
+- Google Cyber Security Course Professional Statement <a href="https://docs.google.com/document/d/1M14Tn2Gyp_YqZ5vPQAuY5rvticc8m9ShtXqqV0LxlNQ/edit?usp=sharing">
  
