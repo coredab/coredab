@@ -19,6 +19,7 @@ My journey learning Computer Science has led me to discover this exciting field 
 
 
 ## Projects
+- Mock Security Audit as a part of Google Cyber security Course <a href="https://docs.google.com/document/d/15_nOCC7ZDFV8JdzEew4Uwus0WEPKyK-l7ZrMOHTV2Wk/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Google%20Docs-4285F4?&style=for-the-badge&logo=google-docs&logoColor=white" /></a>
 
 
 ## Activities
